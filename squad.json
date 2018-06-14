@@ -62,11 +62,6 @@
     "name": "Tarek Hamed",
     "position": "MID",
     "country": "Egypt",
-    "club": ""
-}, {
-    "name": "",
-    "position": "MID",
-    "country": "Egypt",
     "club": "Zamalek"
 }, {
     "name": "Shikabala",
@@ -3407,7 +3402,7 @@
     "name": "Gen Shoji",
     "position": "DEF",
     "country": "Japan",
-    "club": ""
+    "club": "Kashima Antlers"
 }, {
     "name": "Naomichi Ueda",
     "position": "DEF",
@@ -3442,7 +3437,7 @@
     "name": "Genki Haraguchi",
     "position": "MID",
     "country": "Japan",
-    "club": ""
+    "club": "Fortuna Düsseldorf"
 }, {
     "name": "Takashi Usami",
     "position": "MID",
